@@ -1,0 +1,80 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+li{
+  color:rgb(99, 37, 35);
+}
+
+li:hover{
+  background: transparent;
+  border:1px solid rgb(99, 37, 35);
+  color: rgb(99, 37, 35);
+  transition: 0.3s;
+  tab-size: inherit;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.navbar-custom { 
+  background-color: rgb(253, 226, 203); 
+} 
+
+.navbar-style{
+	background-color: rgb(253, 226, 203);
+  text-transform: uppercase;  
+  color:rgb(99, 37, 35);
+}
+
+.custom{
+color:rgb(99, 37, 35);
+}
+
+.custom:hover{
+  background: rgb(99, 37, 35);
+	border:none;
+	color: rgb(253, 226, 203);
+	transition: 0.3s;
+}
+
+
+.btn-custom{
+  background:rgb(99, 37, 35);
+	color:rgb(253, 226, 203);
+	border: 1px solid rgb(99, 37, 35);
+  }
+  
+  .btn-custom:hover{
+    background: transparent;
+    border:1px solid rgb(99, 37, 35);
+    color: rgb(99, 37, 35);
+    transition: 0.3s;
+    tab-size: inherit;
+  }
+
+  .border-custom1{
+  background-color: rgb(253, 226, 203);
+	border: 2px solid rgb(253, 226, 203);
+  }
+
+  .border-custom2{
+    background-color: rgb(248, 196, 148);
+    border: 2px solid rgb(248, 196, 148);
+    }
+
